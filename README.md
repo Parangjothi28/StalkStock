@@ -1,2 +1,2 @@
 # StalkStock
-Stock Market Fantasy League Website
+Stock Market Fantasy League Application
